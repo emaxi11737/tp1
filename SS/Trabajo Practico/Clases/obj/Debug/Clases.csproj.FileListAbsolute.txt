@@ -1,0 +1,6 @@
+C:\Users\Maxi\Desktop\Primer trabajo practico\Trabajo Practico\Clases\bin\Debug\Clases.dll
+C:\Users\Maxi\Desktop\Primer trabajo practico\Trabajo Practico\Clases\bin\Debug\Clases.pdb
+C:\Users\Maxi\Desktop\Primer trabajo practico\Trabajo Practico\Clases\obj\Debug\Clases.csprojAssemblyReference.cache
+C:\Users\Maxi\Desktop\Primer trabajo practico\Trabajo Practico\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\Desktop\Primer trabajo practico\Trabajo Practico\Clases\obj\Debug\Clases.dll
+C:\Users\Maxi\Desktop\Primer trabajo practico\Trabajo Practico\Clases\obj\Debug\Clases.pdb

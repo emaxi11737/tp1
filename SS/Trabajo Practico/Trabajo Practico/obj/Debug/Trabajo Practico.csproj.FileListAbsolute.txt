@@ -1,0 +1,23 @@
+C:\Users\Maxi\Desktop\Primer trabajo practico\Trabajo Practico\Trabajo Practico\bin\Debug\Trabajo Practico.exe.config
+C:\Users\Maxi\Desktop\Primer trabajo practico\Trabajo Practico\Trabajo Practico\bin\Debug\Trabajo Practico.exe
+C:\Users\Maxi\Desktop\Primer trabajo practico\Trabajo Practico\Trabajo Practico\bin\Debug\Trabajo Practico.pdb
+C:\Users\Maxi\Desktop\Primer trabajo practico\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo Practico.csprojAssemblyReference.cache
+C:\Users\Maxi\Desktop\Primer trabajo practico\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.Properties.Resources.resources
+C:\Users\Maxi\Desktop\Primer trabajo practico\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo Practico.csproj.GenerateResource.cache
+C:\Users\Maxi\Desktop\Primer trabajo practico\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo Practico.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\Desktop\Primer trabajo practico\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo Practico.exe
+C:\Users\Maxi\Desktop\Primer trabajo practico\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo Practico.pdb
+C:\Users\Maxi\Desktop\Primer trabajo practico\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.frmPrincipal.resources
+C:\Users\Maxi\Desktop\Primer trabajo practico\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.frmPersonas.resources
+C:\Users\Maxi\Desktop\SS\Trabajo Practico\Trabajo Practico\bin\Debug\Trabajo Practico.exe.config
+C:\Users\Maxi\Desktop\SS\Trabajo Practico\Trabajo Practico\bin\Debug\Trabajo Practico.exe
+C:\Users\Maxi\Desktop\SS\Trabajo Practico\Trabajo Practico\bin\Debug\Trabajo Practico.pdb
+C:\Users\Maxi\Desktop\SS\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo Practico.csprojAssemblyReference.cache
+C:\Users\Maxi\Desktop\SS\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.frmPrincipal.resources
+C:\Users\Maxi\Desktop\SS\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.frmPersonas.resources
+C:\Users\Maxi\Desktop\SS\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.Properties.Resources.resources
+C:\Users\Maxi\Desktop\SS\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo Practico.csproj.GenerateResource.cache
+C:\Users\Maxi\Desktop\SS\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo Practico.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\Desktop\SS\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo Practico.exe
+C:\Users\Maxi\Desktop\SS\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo Practico.pdb
+C:\Users\Maxi\Desktop\SS\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.frmObjetos.resources
